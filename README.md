@@ -30,6 +30,7 @@ I'm an Information Technology student interested in building practical solutions
 - Cloud computing
 - Computer networks and cybersecurity
 - Machine learning for network security
+- Operating System
 
 ---
 
