@@ -62,6 +62,7 @@ A web-based project focused on managing hotel-related operations and database re
 - Operating Systems
 - Computer Networks
 - Software Development and DevOps
+- Machine Learning in CyberSecurity
 
 ---
 
